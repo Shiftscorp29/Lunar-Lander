@@ -1,7 +1,7 @@
-!pip install gymnasium
-!pip install "gymnasium[atari, accept-rom-license]"
-!apt-get install -y swig
-!pip install gymnasium[box2d]
+# !pip install gymnasium
+# !pip install "gymnasium[atari, accept-rom-license]"
+# !apt-get install -y swig
+# !pip install gymnasium[box2d]
 
 import os
 import random
