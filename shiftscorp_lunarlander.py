@@ -176,5 +176,3 @@ def show_video():
         print("Could not find video")
 
 show_video()
-from google.colab import files
-files.download('video.mp4')
