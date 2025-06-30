@@ -1,4 +1,4 @@
-# AI Lunar Lander
+# AI Lunar Lander🛰️🚀
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shiftscorp29/Lunar-Lander/blob/main/lunarlander.ipynb)
 
